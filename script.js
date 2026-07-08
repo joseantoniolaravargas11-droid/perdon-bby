@@ -28,7 +28,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "Siiiiii!!!! 😍😍😍";
+  titleElement.innerHTML = "Siiiiii!!!! te amo mi princesa hermosa te quieroo un monton t para toda mi vida 💗🫶🏻🥺 TE AMOOO PRINCESA ";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
   window.navigator.vibrate(2000);
